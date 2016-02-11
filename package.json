@@ -1,0 +1,25 @@
+{
+  "name": "aeo",
+  "version": "0.0.0",
+  "description": "Unopinionated NodeJS MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjs/aeo.git"
+  },
+  "keywords": [
+    "mvc",
+    "unopinionated",
+    "pluggable",
+    "modular",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devjs/aeo/issues"
+  },
+  "homepage": "https://github.com/devjs/aeo#readme"
+}
